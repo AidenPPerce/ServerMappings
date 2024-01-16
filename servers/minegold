@@ -1,0 +1,46 @@
+{
+    "id": "minegold",
+    "name": "MineGold Network",
+    "description": "Servidor de Boxpvp y PvP",
+    "addresses": [
+        "minegold.net",
+        "miami1.sigmanodes.com:19138",
+    ],
+    "primaryAddress": "minegold.net",
+    "minecraftVersions": [
+        "1.17*",
+        "1.19*"
+    ],
+    "primaryMinecraftVersion": "1.19",
+    "primaryColor": "#44a1e3",
+    "secondaryColor": "#a854de",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "NA",
+    "regions": [
+        "NA",
+        "EU",
+        "OC",
+        "AS",
+        "SA"
+    ],
+    "gameTypes": [
+        "PvP"
+    ],
+    "website": "https://www.lunar.gg",
+    "store": "https://store.lunar.gg",
+    "compliance": {
+        "privacyPolicy": "https://www.lunar.gg/privacy",
+        "termsOfService": "https://www.lunar.gg/terms",
+        "rules": "https://www.lunar.gg/rules"
+    },
+    "presentationVideo": "7EV4cPuJvXE",
+    "socials": {
+        "twitter": "minegold",
+        "telegram": "minegold",
+        "discord": "https://www.minegold/discord"
+    },
+    "crossplay": false
+}
